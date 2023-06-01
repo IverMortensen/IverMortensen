@@ -1,10 +1,3 @@
-<hr>
-<detials>
-  <p align = "left">
-    <img src="https://wakatime.com/share/@59ae65b3-57f8-42c7-8077-20c1f661c52b/3675d6fb-550d-433b-ac3a-5c8519cfacd0.svg" />
-  </p>
-</detials>
-<hr>
 
 
 
