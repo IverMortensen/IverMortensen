@@ -1,7 +1,12 @@
-<figure><embed src="https://wakatime.com/share/@59ae65b3-57f8-42c7-8077-20c1f661c52b/588e6393-e65f-403e-9298-da0f31ad4aed.svg"></embed></figure>
+<hr>
+<detials>
+  <p align = "center">
+    <img src="https://wakatime.com/share/@59ae65b3-57f8-42c7-8077-20c1f661c52b/588e6393-e65f-403e-9298-da0f31ad4aed.svg" height="400"/>
+  </p>
+</detials>
+<hr>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 <!--
 **Solcelle/Solcelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
