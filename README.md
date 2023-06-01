@@ -1,4 +1,6 @@
 ### Hi there 👋
+- name: Waka - Readme
+  uses: athul/waka-readme@v0.2.0
 
 <!--
 **Solcelle/Solcelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
