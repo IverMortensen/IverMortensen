@@ -1,7 +1,7 @@
 <hr>
 <detials>
-  <p align = "center">
-    <img src="https://wakatime.com/share/@59ae65b3-57f8-42c7-8077-20c1f661c52b/588e6393-e65f-403e-9298-da0f31ad4aed.svg" height="400"/>
+  <p align = "left">
+    <img src="https://wakatime.com/share/@59ae65b3-57f8-42c7-8077-20c1f661c52b/588e6393-e65f-403e-9298-da0f31ad4aed.svg" height="200"/>
   </p>
 </detials>
 <hr>
