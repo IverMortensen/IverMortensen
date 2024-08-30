@@ -1,4 +1,6 @@
+Studying coputer science at UiT
 
+Working as a developer at Bravida
 
 
 <!--
