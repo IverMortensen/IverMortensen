@@ -1,6 +1,6 @@
-Studying coputer science at UiT
+Studying computer science at UiT
 
-Working as a developer at Bravida
+Working as a developer at Bravida Tromsø
 
 
 <!--
